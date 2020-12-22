@@ -8,7 +8,7 @@ sections:
     content: Descrizione di chi siamo
     actions:
       - type: action
-        label: Let's talk
+        label: ''
         url: /contact
         style: button
   - type: section_portfolio

@@ -5,9 +5,7 @@ sections:
   - type: section_hero
     title: Tecniart
     section_id: hero
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: Descrizione di chi siamo
     actions:
       - type: action
         label: Let's talk
